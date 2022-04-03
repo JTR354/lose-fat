@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "91fee7085c2bc7c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee35f392f64a30e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01-初始了解自己的身体.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d930db32b6d26623",
+    "type": "split",
+    "children": [
+      {
+        "id": "e54a4d84b7cfaa8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff427fb75886fee5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c5ffa7a44c4b4d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b69319bdd7fbf3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f49720bedd62cf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7071721bd844442a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-初始了解自己的身体.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ee35f392f64a30e4",
+  "lastOpenFiles": [
+    "01-初始了解自己的身体.md",
+    "README.md"
+  ]
+}
